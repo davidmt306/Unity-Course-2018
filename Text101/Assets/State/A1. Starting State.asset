@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6c2f65f84c0efb45bfd028b48e27cc7, type: 3}
+  m_Name: A1. Starting State
+  m_EditorClassIdentifier: 
+  storyText: "My squad is out of action, it's only coporal Ellis and me ,we are surrounded
+    by zombies and I am terribly wounded. The door barricade starts to fall apart.\r\n\r\nWhat
+    should I do?\r\n\r\n1. Make a last heroic stand and hope for the best.\r\n2. Look
+    for something to hold the barricade.\r\n3. Make our way to the upper floor."
+  nextStates:
+  - {fileID: 11400000, guid: c5585e214d69c494a8a3e5e68b4a0ed6, type: 2}
+  - {fileID: 11400000, guid: fbb06207aa9dd244d9bb21abaae18736, type: 2}
+  - {fileID: 11400000, guid: f3a1c285ddbd4ea4086600bd5a4db2ec, type: 2}

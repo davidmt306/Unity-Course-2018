@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6c2f65f84c0efb45bfd028b48e27cc7, type: 3}
+  m_Name: B3. Go upstairs
+  m_EditorClassIdentifier: 
+  storyText: "Fuck it, let's get out of here!, Ellis helped me to walk and go upstairs
+    to the upper floor. We found little resistance, but the barricade went down and
+    the horde is aproaching fast. We locked ourselves in a dinnign room, we are almost
+    out of ammo. We found a shotgun with 4 bullets from the owner.\n\nWhat should
+    I do?\r\n\n1. Keep going upstairs.\n2. Make your way down."
+  nextStates:
+  - {fileID: 11400000, guid: ba04be4d43865da40a463e42fbe76836, type: 2}
+  - {fileID: 11400000, guid: 8c2567155ceefae42903b32a1c3f169b, type: 2}

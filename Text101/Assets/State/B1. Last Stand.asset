@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6c2f65f84c0efb45bfd028b48e27cc7, type: 3}
+  m_Name: B1. Last Stand
+  m_EditorClassIdentifier: 
+  storyText: "The barricade is down, I opened fire but my weapon jamed, I switched
+    to my pistol but against zombies is rather useless. Ellis took point but got overuned
+    and died from the bites. I fight against them, but they are too many..... argh!.....\n\nWhat
+    should I do?\r\n\n1. Make our way to the upper floor.\n2. Commit suicide."
+  nextStates:
+  - {fileID: 11400000, guid: 8c2567155ceefae42903b32a1c3f169b, type: 2}
+  - {fileID: 11400000, guid: 402f92563bef3cb4d867bd60658e5136, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6c2f65f84c0efb45bfd028b48e27cc7, type: 3}
+  m_Name: B2. Reinforce barricade
+  m_EditorClassIdentifier: 
+  storyText: "We look for something to hold on the barricade, but there is little
+    to nothing useful material in the room, we used a heavy table to hold the barricade
+    but that just gave us a few minutes. We need to do something else.\n\nWhat should
+    I do?\r\n\n1. Make our way to the upper floor.\n2. Commit suicide"
+  nextStates:
+  - {fileID: 11400000, guid: f3a1c285ddbd4ea4086600bd5a4db2ec, type: 2}
+  - {fileID: 11400000, guid: 402f92563bef3cb4d867bd60658e5136, type: 2}
