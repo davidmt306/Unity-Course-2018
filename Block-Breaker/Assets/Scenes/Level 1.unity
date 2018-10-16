@@ -242,7 +242,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!61 &751284035
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -458,6 +458,7 @@ GameObject:
   - component: {fileID: 1053075130}
   - component: {fileID: 1053075129}
   - component: {fileID: 1053075131}
+  - component: {fileID: 1053075132}
   m_Layer: 0
   m_Name: Paddle
   m_TagString: Untagged
@@ -517,7 +518,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1053075128}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 9.31, y: 0.3, z: 0}
+  m_LocalPosition: {x: 5, y: 0.25, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -555,6 +556,18 @@ PolygonCollider2D:
       - {x: 1, y: -0.25}
       - {x: 0.9954653, y: 0.045372605}
       - {x: 0.87674856, y: 0.09527972}
+--- !u!114 &1053075132
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1053075128}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 613e46bb8fc3e7b4f9aa95a144c546db, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  screenWidthInUnits: 16
 --- !u!1 &1473596592
 GameObject:
   m_ObjectHideFlags: 0
@@ -783,7 +796,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1842247961
 RectTransform:
   m_ObjectHideFlags: 0
