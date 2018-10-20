@@ -8,24 +8,30 @@ public class Ball : MonoBehaviour {
     [SerializeField] Paddle paddle1;
     [SerializeField] float xPush = 2f;
     [SerializeField] float yPush = 15f;
+    [SerializeField] AudioClip[] ballSounds;
     
     // State
     Vector2 paddleToBallVector;
     bool hasStarted = false;
 
+    // Cached component references
+    AudioSource myAudioSource;
+
     // Use this for initialization
     void Start () {
         paddleToBallVector = transform.position - paddle1.transform.position;
-	}
+        myAudioSource = GetComponent<AudioSource>();
+
+    }
 	
 	// Update is called once per frame
 	void Update () {
         if (!hasStarted) {
-            LockBalToPaddle();
+            LockBallToPaddle();
             LaunchOnMouseClick();
         }
     }
-
+    // Launch the ball on mouse left click
     private void LaunchOnMouseClick() {
         if (Input.GetMouseButtonDown(0)) {
             hasStarted = true;
@@ -33,8 +39,16 @@ public class Ball : MonoBehaviour {
         }
     }
 
-    private void LockBalToPaddle() {
+    private void LockBallToPaddle() {
         Vector2 paddlePos = new Vector2(paddle1.transform.position.x, paddle1.transform.position.y);
         transform.position = paddlePos + paddleToBallVector;
+    }
+
+    // Play ball sound only when the game has started (Randomized sounds)
+    private void OnCollisionEnter2D(Collision2D collision) {
+        if (hasStarted) {
+            AudioClip clip = ballSounds[UnityEngine.Random.Range(0, ballSounds.Length)];
+            myAudioSource.PlayOneShot(clip);
+        }    
     }
 }
