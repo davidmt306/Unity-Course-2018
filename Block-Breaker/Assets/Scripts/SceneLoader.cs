@@ -13,7 +13,8 @@ public class SceneLoader : MonoBehaviour {
     }
     // Carga la escena con el index en la posicion 0
     public void LoadStartScene() {
-        SceneManager.LoadScene(0); 
+        SceneManager.LoadScene(0);
+        FindObjectOfType<GameSession>().ResetGame();
     }
     // Salir del juego
     public void QuitGame() {
