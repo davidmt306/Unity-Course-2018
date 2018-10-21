@@ -34,7 +34,6 @@ public class GameSession : MonoBehaviour {
     public void AddToScore() {
         currentScore += pointsPerBlockDestroyed;
         scoreText.text = currentScore.ToString();
-        Debug.Log(currentScore);
     }
 
     public void ResetGame() {

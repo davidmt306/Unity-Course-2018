@@ -31,6 +31,7 @@ public class Ball : MonoBehaviour {
             LaunchOnMouseClick();
         }
     }
+
     // Launch the ball on mouse left click
     private void LaunchOnMouseClick() {
         if (Input.GetMouseButtonDown(0)) {

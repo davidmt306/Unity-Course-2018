@@ -14,7 +14,7 @@ public class Level : MonoBehaviour {
     }
 
     // Count the ammount of blocks on the Level
-    public void CountBreakableBlocks() {
+    public void CountBlocks() {
         breakableBlocks++;
     }
 
