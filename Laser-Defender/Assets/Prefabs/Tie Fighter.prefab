@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 114538425616891992}
   - component: {fileID: 114999451225930050}
   - component: {fileID: 60393913159829936}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Tie Fighter
   m_TagString: Untagged
   m_Icon: {fileID: 0}

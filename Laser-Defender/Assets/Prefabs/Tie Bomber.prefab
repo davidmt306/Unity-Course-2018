@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 114538425616891992}
   - component: {fileID: 114619113843517754}
   - component: {fileID: 60614438867049964}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Tie Bomber
   m_TagString: Untagged
   m_Icon: {fileID: 0}
