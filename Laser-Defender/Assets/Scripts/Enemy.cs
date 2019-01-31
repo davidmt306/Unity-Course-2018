@@ -10,7 +10,7 @@ public class Enemy : MonoBehaviour {
 
     [Header("Shooting")]
     [SerializeField] GameObject projectile;
-    [SerializeField] float shotCounter;
+    float shotCounter;
     [SerializeField] float minTimeBetweenShots = 0.25f;
     [SerializeField] float maxTimeBetweenShots = 3f;
     [SerializeField] float projectileSpeed = 10f;

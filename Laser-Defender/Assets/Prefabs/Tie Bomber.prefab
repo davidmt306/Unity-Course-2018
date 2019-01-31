@@ -188,11 +188,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 200
+  scoreValue: 100
   projectile: {fileID: 1216287913590030, guid: cefcbf66192b7a7478298338e4519e7c, type: 2}
-  shotCounter: 0
   minTimeBetweenShots: 0.25
   maxTimeBetweenShots: 3
-  projectileSpeed: 10
+  projectileSpeed: 20
   deathVFX: {fileID: 1371410648923014, guid: f2d6d46eb611f8540a1325bc0466406f, type: 2}
   durationOfExplosion: 1
   laserSFX: {fileID: 8300000, guid: 99ad96880f0ee244ebfb0f9dbcb763b6, type: 3}

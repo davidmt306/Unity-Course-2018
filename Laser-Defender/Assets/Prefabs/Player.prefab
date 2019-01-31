@@ -120,10 +120,10 @@ PolygonCollider2D:
       - {x: 0.099999994, y: -0.96999997}
     - - {x: 0.52, y: 0.22}
       - {x: 0.51, y: 0.19999999}
-      - {x: 0.51, y: 0.14999999}
+      - {x: 0.51439345, y: 0.05774021}
       - {x: 0.53999996, y: 0.12}
       - {x: 0.56, y: 0.12}
-      - {x: 0.58, y: 0.13}
+      - {x: 0.5756065, y: 0.064100266}
       - {x: 0.58, y: 0.17}
       - {x: 0.56, y: 0.22}
 --- !u!114 &114363983883883886
@@ -137,8 +137,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 960610ab72415574e8104610b8e47b9a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 200
-  moveSpeed: 10
+  health: 500
+  moveSpeed: 20
   xPadding: 0.8
   yPadding: 1
   laserPrefab: {fileID: 1216287913590030, guid: d088a141942f98347989040865a1c93f,
