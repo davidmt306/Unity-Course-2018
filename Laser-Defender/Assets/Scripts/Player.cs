@@ -5,16 +5,30 @@ using UnityEngine;
 
 public class Player : MonoBehaviour {
     // Configuration parameters
+    [Header("Player Health")]
+    [SerializeField] float health = 200;
+
     [Header("Player Movement")]
     [SerializeField] float moveSpeed = 10f;
     [SerializeField] float xPadding = 0.8f;
     [SerializeField] float yPadding = 1f;
-    [SerializeField] float health = 200;
-
+    
     [Header("Proyectile")]
     [SerializeField] GameObject laserPrefab;
     [SerializeField] float projectileSpeed = 10f;
     [SerializeField] float projectileFirePeriod = 0.1f;
+
+    [Header("Explosion")]
+    [SerializeField] GameObject deathVFX;
+    [SerializeField] float durationOfExplosion = 1f;
+
+    [Header("Laser Sound")]
+    [SerializeField] AudioClip laserSFX;
+    [SerializeField] [Range(0, 1)] float laserSoundVolume = 0.5f;
+
+    [Header("Death Sound")]
+    [SerializeField] AudioClip deathSFX;
+    [SerializeField] [Range(0, 1)] float deathSoundVolume = 0.5f;
 
     Coroutine firingCoroutine;
 
@@ -45,8 +59,15 @@ public class Player : MonoBehaviour {
         health -= damageDealer.GetDamage();
         damageDealer.Hit();
         if (health <= 0) {
-            Destroy(gameObject);
+            Die();
         }
+    }
+
+    private void Die() {
+        Destroy(gameObject);
+        GameObject explosion = Instantiate(deathVFX, transform.position, transform.rotation);
+        Destroy(explosion, durationOfExplosion);
+        AudioSource.PlayClipAtPoint(deathSFX, Camera.main.transform.position, deathSoundVolume);
     }
 
     // Fire the player laser
@@ -63,6 +84,7 @@ public class Player : MonoBehaviour {
         while (true) {
             GameObject laser = Instantiate(laserPrefab, transform.position, Quaternion.identity) as GameObject;
             laser.GetComponent<Rigidbody2D>().velocity = new Vector2(0, projectileSpeed);
+            AudioSource.PlayClipAtPoint(laserSFX, Camera.main.transform.position, laserSoundVolume);
             yield return new WaitForSeconds(projectileFirePeriod);
         }
     }

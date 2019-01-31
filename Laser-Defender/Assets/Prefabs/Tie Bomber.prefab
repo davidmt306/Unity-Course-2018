@@ -166,11 +166,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 200
+  projectile: {fileID: 1216287913590030, guid: cefcbf66192b7a7478298338e4519e7c, type: 2}
   shotCounter: 0
   minTimeBetweenShots: 0.25
   maxTimeBetweenShots: 3
-  projectile: {fileID: 1216287913590030, guid: cefcbf66192b7a7478298338e4519e7c, type: 2}
   projectileSpeed: 10
+  deathVFX: {fileID: 1371410648923014, guid: f2d6d46eb611f8540a1325bc0466406f, type: 2}
+  durationOfExplosion: 1
+  laserSFX: {fileID: 8300000, guid: 99ad96880f0ee244ebfb0f9dbcb763b6, type: 3}
+  laserSoundVolume: 0.2
+  deathSFX: {fileID: 8300000, guid: 0986e806f952d324cb95e0e3d4c8504d, type: 3}
+  deathSoundVolume: 0.2
 --- !u!212 &212397477777787218
 SpriteRenderer:
   m_ObjectHideFlags: 1
