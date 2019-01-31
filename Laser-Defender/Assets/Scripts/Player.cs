@@ -6,13 +6,13 @@ using UnityEngine;
 public class Player : MonoBehaviour {
     // Configuration parameters
     [Header("Player Health")]
-    [SerializeField] float health = 200;
+    [SerializeField] int health = 200;
 
     [Header("Player Movement")]
     [SerializeField] float moveSpeed = 10f;
     [SerializeField] float xPadding = 0.8f;
     [SerializeField] float yPadding = 1f;
-    
+
     [Header("Proyectile")]
     [SerializeField] GameObject laserPrefab;
     [SerializeField] float projectileSpeed = 10f;
@@ -38,16 +38,16 @@ public class Player : MonoBehaviour {
     float yMin;
     float yMax;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start() {
         SetUpMoveBoundaries();
-	}
+    }
 
     // Update is called once per frame
-    void Update () {
+    void Update() {
         Move();
         Fire();
-	}
+    }
 
     private void OnTriggerEnter2D(Collider2D other) {
         DamageDealer damageDealer = other.gameObject.GetComponent<DamageDealer>();
@@ -69,6 +69,10 @@ public class Player : MonoBehaviour {
         GameObject explosion = Instantiate(deathVFX, transform.position, transform.rotation);
         Destroy(explosion, durationOfExplosion);
         AudioSource.PlayClipAtPoint(deathSFX, Camera.main.transform.position, deathSoundVolume);
+    }
+
+    public int GetHealth() {
+        return health;
     }
 
     // Fire the player laser
