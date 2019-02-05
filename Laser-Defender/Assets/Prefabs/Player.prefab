@@ -137,7 +137,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 960610ab72415574e8104610b8e47b9a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 500
+  health: 5000000
   moveSpeed: 20
   xPadding: 0.8
   yPadding: 1
@@ -149,6 +149,14 @@ MonoBehaviour:
   durationOfExplosion: 1
   laserSFX: {fileID: 8300000, guid: 0ac3d79b15b1e544383add6e146e7836, type: 3}
   laserSoundVolume: 0.2
+  hitSFXArray:
+  - {fileID: 8300000, guid: 5e3f31b30c0425f4b94789bc5fa00f30, type: 3}
+  - {fileID: 8300000, guid: a3fd2ab2ab9047e4b84a8308ca344e5e, type: 3}
+  - {fileID: 8300000, guid: ddd8986800a656c4db8cf40c4ee081dc, type: 3}
+  - {fileID: 8300000, guid: ef6a3c14a2c31d54ebe3384010ab6f42, type: 3}
+  - {fileID: 8300000, guid: 79ec8d15d4ac4e849b78ead7a0d13191, type: 3}
+  - {fileID: 8300000, guid: eced243a0161d2c43b69936d9e5034e5, type: 3}
+  hitSoundVolume: 1
   deathSFX: {fileID: 8300000, guid: 4b9710f633bbbd547883e125330417b8, type: 3}
   deathSoundVolume: 0.2
 --- !u!212 &212450948518137640

@@ -26,6 +26,12 @@ public class Player : MonoBehaviour {
     [SerializeField] AudioClip laserSFX;
     [SerializeField] [Range(0, 1)] float laserSoundVolume = 0.5f;
 
+    [Header("Hit Sounds")]
+    [SerializeField] AudioClip[] hitSFXArray;
+    [SerializeField] [Range(0, 1)] float hitSoundVolume = 0.5f;
+    AudioClip hitSFX;
+    private float hitSFXDuration;
+
     [Header("Death Sound")]
     [SerializeField] AudioClip deathSFX;
     [SerializeField] [Range(0, 1)] float deathSoundVolume = 0.5f;
@@ -55,8 +61,21 @@ public class Player : MonoBehaviour {
         ProcessHit(damageDealer);
     }
 
+    private void ChooseHitSound() {
+        int index = UnityEngine.Random.Range(0, hitSFXArray.Length);
+        hitSFX = hitSFXArray[index];
+        hitSFXDuration = hitSFX.length;
+        StartCoroutine(WaitForHitSound());
+    }
+
+    IEnumerator WaitForHitSound() {
+        AudioSource.PlayClipAtPoint(hitSFX, Camera.main.transform.position, hitSoundVolume);
+        yield return new WaitForSeconds(hitSFXDuration);
+    }
+
     private void ProcessHit(DamageDealer damageDealer) {
         health -= damageDealer.GetDamage();
+        ChooseHitSound();
         damageDealer.Hit();
         if (health <= 0) {
             Die();
