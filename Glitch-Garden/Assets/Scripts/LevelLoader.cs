@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class LevelLoader : MonoBehaviour {
     // Configuration parameters
-    [SerializeField] int timeToWait = 6;
+    [SerializeField] int timeToWait = 8;
     int currentSceneIndex;
 
 	// Use this for initialization
