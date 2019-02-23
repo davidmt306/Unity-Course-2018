@@ -1,0 +1,3687 @@
+fileFormatVersion: 2
+guid: 560e142287a4d1f4caa24e5da3f04b99
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Soldier rifle - Metal Slug_0
+    21300002: Soldier rifle - Metal Slug_1
+    21300004: Soldier rifle - Metal Slug_2
+    21300006: Soldier rifle - Metal Slug_3
+    21300008: Soldier rifle - Metal Slug_4
+    21300010: Soldier rifle - Metal Slug_5
+    21300012: Soldier rifle - Metal Slug_6
+    21300014: Soldier rifle - Metal Slug_7
+    21300016: Soldier rifle - Metal Slug_8
+    21300018: Soldier rifle - Metal Slug_9
+    21300020: Soldier rifle - Metal Slug_10
+    21300022: Soldier rifle - Metal Slug_11
+    21300024: Soldier rifle - Metal Slug_12
+    21300026: Soldier rifle - Metal Slug_13
+    21300028: Soldier rifle - Metal Slug_14
+    21300030: Soldier rifle - Metal Slug_15
+    21300032: Soldier rifle - Metal Slug_16
+    21300034: Soldier rifle - Metal Slug_17
+    21300036: Soldier rifle - Metal Slug_18
+    21300038: Soldier rifle - Metal Slug_19
+    21300040: Soldier rifle - Metal Slug_20
+    21300042: Soldier rifle - Metal Slug_21
+    21300044: Soldier rifle - Metal Slug_22
+    21300046: Soldier rifle - Metal Slug_23
+    21300048: Soldier rifle - Metal Slug_24
+    21300050: Soldier rifle - Metal Slug_25
+    21300052: Soldier rifle - Metal Slug_26
+    21300054: Soldier rifle - Metal Slug_27
+    21300056: Soldier rifle - Metal Slug_28
+    21300058: Soldier rifle - Metal Slug_29
+    21300060: Soldier rifle - Metal Slug_30
+    21300062: Soldier rifle - Metal Slug_31
+    21300064: Soldier rifle - Metal Slug_32
+    21300066: Soldier rifle - Metal Slug_33
+    21300068: Soldier rifle - Metal Slug_34
+    21300070: Soldier rifle - Metal Slug_35
+    21300072: Soldier rifle - Metal Slug_36
+    21300074: Soldier rifle - Metal Slug_37
+    21300076: Soldier rifle - Metal Slug_38
+    21300078: Soldier rifle - Metal Slug_39
+    21300080: Soldier rifle - Metal Slug_40
+    21300082: Soldier rifle - Metal Slug_41
+    21300084: Soldier rifle - Metal Slug_42
+    21300086: Soldier rifle - Metal Slug_43
+    21300088: Soldier rifle - Metal Slug_44
+    21300090: Soldier rifle - Metal Slug_45
+    21300092: Soldier rifle - Metal Slug_46
+    21300094: Soldier rifle - Metal Slug_47
+    21300096: Soldier rifle - Metal Slug_48
+    21300098: Soldier rifle - Metal Slug_49
+    21300100: Soldier rifle - Metal Slug_50
+    21300102: Soldier rifle - Metal Slug_51
+    21300104: Soldier rifle - Metal Slug_52
+    21300106: Soldier rifle - Metal Slug_53
+    21300108: Soldier rifle - Metal Slug_54
+    21300110: Soldier rifle - Metal Slug_55
+    21300112: Soldier rifle - Metal Slug_56
+    21300114: Soldier rifle - Metal Slug_57
+    21300116: Soldier rifle - Metal Slug_58
+    21300118: Soldier rifle - Metal Slug_59
+    21300120: Soldier rifle - Metal Slug_60
+    21300122: Soldier rifle - Metal Slug_61
+    21300124: Soldier rifle - Metal Slug_62
+    21300126: Soldier rifle - Metal Slug_63
+    21300128: Soldier rifle - Metal Slug_64
+    21300130: Soldier rifle - Metal Slug_65
+    21300132: Soldier rifle - Metal Slug_66
+    21300134: Soldier rifle - Metal Slug_67
+    21300136: Soldier rifle - Metal Slug_68
+    21300138: Soldier rifle - Metal Slug_69
+    21300140: Soldier rifle - Metal Slug_70
+    21300142: Soldier rifle - Metal Slug_71
+    21300144: Soldier rifle - Metal Slug_72
+    21300146: Soldier rifle - Metal Slug_73
+    21300148: Soldier rifle - Metal Slug_74
+    21300150: Soldier rifle - Metal Slug_75
+    21300152: Soldier rifle - Metal Slug_76
+    21300154: Soldier rifle - Metal Slug_77
+    21300156: Soldier rifle - Metal Slug_78
+    21300158: Soldier rifle - Metal Slug_79
+    21300160: Soldier rifle - Metal Slug_80
+    21300162: Soldier rifle - Metal Slug_81
+    21300164: Soldier rifle - Metal Slug_82
+    21300166: Soldier rifle - Metal Slug_83
+    21300168: Soldier rifle - Metal Slug_84
+    21300170: Soldier rifle - Metal Slug_85
+    21300172: Soldier rifle - Metal Slug_86
+    21300174: Soldier rifle - Metal Slug_87
+    21300176: Soldier rifle - Metal Slug_88
+    21300178: Soldier rifle - Metal Slug_89
+    21300180: Soldier rifle - Metal Slug_90
+    21300182: Soldier rifle - Metal Slug_91
+    21300184: Soldier rifle - Metal Slug_92
+    21300186: Soldier rifle - Metal Slug_93
+    21300188: Soldier rifle - Metal Slug_94
+    21300190: Soldier rifle - Metal Slug_95
+    21300192: Soldier rifle - Metal Slug_96
+    21300194: Soldier rifle - Metal Slug_97
+    21300196: Soldier rifle - Metal Slug_98
+    21300198: Soldier rifle - Metal Slug_99
+    21300200: Soldier rifle - Metal Slug_100
+    21300202: Soldier rifle - Metal Slug_101
+    21300204: Soldier rifle - Metal Slug_102
+    21300206: Soldier rifle - Metal Slug_103
+    21300208: Soldier rifle - Metal Slug_104
+    21300210: Soldier rifle - Metal Slug_105
+    21300212: Soldier rifle - Metal Slug_106
+    21300214: Soldier rifle - Metal Slug_107
+    21300216: Soldier rifle - Metal Slug_108
+    21300218: Soldier rifle - Metal Slug_109
+    21300220: Soldier rifle - Metal Slug_110
+    21300222: Soldier rifle - Metal Slug_111
+    21300224: Soldier rifle - Metal Slug_112
+    21300226: Soldier rifle - Metal Slug_113
+    21300228: Soldier rifle - Metal Slug_114
+    21300230: Soldier rifle - Metal Slug_115
+    21300232: Soldier rifle - Metal Slug_116
+    21300234: Soldier rifle - Metal Slug_117
+    21300236: Soldier rifle - Metal Slug_118
+    21300238: Soldier rifle - Metal Slug_119
+    21300240: Soldier rifle - Metal Slug_120
+    21300242: Soldier rifle - Metal Slug_121
+    21300244: Soldier rifle - Metal Slug_122
+    21300246: Soldier rifle - Metal Slug_123
+    21300248: Soldier rifle - Metal Slug_124
+    21300250: Soldier rifle - Metal Slug_125
+    21300252: Soldier rifle - Metal Slug_126
+    21300254: Soldier rifle - Metal Slug_127
+    21300256: Soldier rifle - Metal Slug_128
+    21300258: Soldier rifle - Metal Slug_129
+    21300260: Soldier rifle - Metal Slug_130
+    21300262: Soldier rifle - Metal Slug_131
+    21300264: Soldier rifle - Metal Slug_132
+    21300266: Soldier rifle - Metal Slug_133
+    21300268: Soldier rifle - Metal Slug_134
+    21300270: Soldier rifle - Metal Slug_135
+    21300272: Soldier rifle - Metal Slug_136
+    21300274: Soldier rifle - Metal Slug_137
+    21300276: Soldier rifle - Metal Slug_138
+    21300278: Soldier rifle - Metal Slug_139
+    21300280: Soldier rifle - Metal Slug_140
+    21300282: Soldier rifle - Metal Slug_141
+    21300284: Soldier rifle - Metal Slug_142
+    21300286: Soldier rifle - Metal Slug_143
+    21300288: Soldier rifle - Metal Slug_144
+    21300290: Soldier rifle - Metal Slug_145
+    21300292: Soldier rifle - Metal Slug_146
+    21300294: Soldier rifle - Metal Slug_147
+    21300296: Soldier rifle - Metal Slug_148
+    21300298: Soldier rifle - Metal Slug_149
+    21300300: Soldier rifle - Metal Slug_150
+    21300302: Soldier rifle - Metal Slug_151
+    21300304: Soldier rifle - Metal Slug_152
+    21300306: Soldier rifle - Metal Slug_153
+    21300308: Soldier rifle - Metal Slug_154
+    21300310: Soldier rifle - Metal Slug_155
+    21300312: Soldier rifle - Metal Slug_156
+    21300314: Soldier rifle - Metal Slug_157
+    21300316: Soldier rifle - Metal Slug_158
+    21300318: Soldier rifle - Metal Slug_159
+    21300320: Soldier rifle - Metal Slug_160
+    21300322: Soldier rifle - Metal Slug_161
+    21300324: Soldier rifle - Metal Slug_162
+    21300326: Soldier rifle - Metal Slug_163
+    21300328: Soldier rifle - Metal Slug_164
+    21300330: Soldier rifle - Metal Slug_165
+    21300332: Soldier rifle - Metal Slug_166
+    21300334: Soldier rifle - Metal Slug_167
+    21300336: Soldier rifle - Metal Slug_168
+    21300338: Soldier rifle - Metal Slug_169
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 829
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d341c80753be054898c994592fa8345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 829
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1714c7ae43c7df64088a8f8973b5727d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 829
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa842199284300e4599ff1ec59ea8e36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 829
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accbe5b135fb1104abeb53996f09ed14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 789
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76f9e7fb306499409a3a5cb8f5c073d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 789
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e49aa756815ef479d82ae6fe488fc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 794
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255b9bb041c8a0459460c6d4d4b2537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 791
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c928c418b4e2fb2428e2e4d40e881134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 790
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36a74468e416a049bebc5cba73cd8c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 789
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4e8d922e2d9d348a66013a53cca687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 789
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1833ad962cbd9843a629d757b80437e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 790
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f9ab711d83b8d41ade6ce0f7c4194c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_12
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 795
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098877318a755d9408a7078b7a12b545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_13
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 792
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0455ae23a9a948b408d2d0f8dd42961d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 790
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e161a9656601a2749a801b19e29638cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 789
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5351ce625f64f4b469639181ce7183e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 748
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f9ae3472f75dd419152d507c11c654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 748
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9c4a8ae1569ca4593b10e1e65f1181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 697
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a00f2dd70b1b7348b4f4a63e9a9e62c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 697
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e408f6e7e669564ba819b8c2ce4f69f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 705
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4ac8c53dde0924fbfe911bcde4689d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 708
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f25e48d991a08408232b9810682828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 708
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045d8b040bf1128498a74aae3ab83473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 697
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f1e7250315c684d9eb79d6eee83d1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_24
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 697
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb76fe4a2f927c44fa36d3eb35d35344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_25
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 697
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d59bd538bf22441873179e7dd9a21d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 661
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ec4bb9ccffe8d4390e3be57657eb3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_27
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 661
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36b292bd2db7714ca88aff090815197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 661
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0977d93b6e475ab44a1898096506611e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 661
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47f24b58340c234aad1e5b1a70a1f4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 661
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2776f400f42a67c4e8643fb0bc6d773e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_31
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 661
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31071030366edb5409daf2a91f1154a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_32
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 661
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332c38294dcc89d468990dde311703c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 661
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba8335eb2643ef44b99e878f6034cd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 614
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9e6035cb1c71a4daeb0af06b5742af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_35
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 614
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8472e25a7f01e9448ac9f3e2b7852744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 614
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a65ad2bd250ef845bc696c4415f4766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 614
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4ec865f8fd91a409960a8cee589a50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 614
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1391872a490ef44aa40564ecb4a12ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_39
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 614
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bb1156991435b4383de94af110aecb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 614
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb8d52f1212ae24d9bd97a74ed9d1c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_41
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 614
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed15545499e93f4391def59e2a6e250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_42
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 614
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7136b1f239da74799eab1623c427d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_43
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 614
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584954d8d0ae1af4eae6b6d112aa9817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_44
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 614
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d55691f5dbb83408ae4b4c5f7afa55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_45
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 614
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c1fd95d7dae724299b41a028bc6009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_46
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 614
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8723a8f35956ef34d90a2389c28edce0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 584
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e9d0a7294454b498906839c8910c25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 534
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0c70c6ff795c348b99495315d6d458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 534
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ebfd2c14902854a874dd6095b6a24a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 534
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e2802097e64cb42b3555cd6a8e4268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_51
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 534
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9077816b924dca4f9e56074e7dc3263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_52
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 525
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00605f9f16a486f4d9534919eaec8ca9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 534
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f999d3405cb1c4a896a867dcfce19e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_54
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 534
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d22ce578f658f4b9015009551d4dc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_55
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 534
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deaaadfa097c044e8089f9d92c72819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_56
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 534
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a851d82b41f351458778b8eb7fee9bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_57
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 534
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a685344e2d143240b3d13ba02c5eda0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 483
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f478aa17a26fcd845978f006dd8bf720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_59
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 483
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2dcb2399f4704499e7add74f8ca7be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_60
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 520
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc819b65b574f7843a58f7189d703178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 483
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514508b9f5d92d444bf1c7e2eaa6895a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_62
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 483
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b5ff4fcbe82c94ba46edb771c3e954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_63
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 483
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae823e866308a6d44afc315401060806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_64
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 483
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926c90850ff087c4e977b6112f493b50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_65
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 483
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9a1c06395111f4981316e3974f46a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_66
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 483
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8f399c5f3be224286cabc981cd6313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_67
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 483
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4676b7e4831fcff4d81ea95d5afa043d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_68
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 483
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ef0778a2a02974681c2e8e94d7b974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_69
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 432
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67c64ff9e80fb340a418cce00311b2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_70
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 432
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eac058bad3b8748850f7e92baad32a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_71
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 432
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a59d22eee21304f9ac53ebe62c3b33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_72
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 432
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773bac516172c96408b818a02026cb21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_73
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 432
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2959f33bb30d8439d9a4424abfebbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 432
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d02d8dc027b9ad46a14212aa19adf76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_75
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 432
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d292beb5f903b9647afb58ce2557712e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_76
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 432
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25ed702a2a06214fb40756fb4d8b727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_77
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 432
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6eede83fe3b274d85e1a581dc3e9fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_78
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 432
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da3619e18b662c419580d6eb70e3dc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_79
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 432
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bae5713819bc44fa48368e682ff8d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_80
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 432
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcdc446b166d0546bc0c89e9f2bab58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 391
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db30d88080390849a0e97239cbdd44d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_82
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 391
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5dfdb42dba38e48bae79570f4aed97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_83
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 391
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1a87fd92650fd4fb01d33cfb8a1830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_84
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 391
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e48d5a87db9e6842877a52d9464ae80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_85
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 391
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726a40414b028ad45b0bda59a6077cd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_86
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 354
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a7d7c0e9c5e0d43b5318166133c62f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_87
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 354
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de6a2c8aa681aa41a526d87e271d94c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 344
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311d2e3b3c862e04db6fd3065c461bf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 354
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efaa707acab85a4ba1a9ff4c6882503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 354
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0637d5cedaa3ded49846f80cf3826e69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_91
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 354
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b53734a7c46daf4ba0f380dc38110ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_92
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 354
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3d764668863bf4a8e408b00faec212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_93
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 354
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f77e3dba533f44439095d1da4512635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_94
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 354
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0596b89741d03448aa30d0002672dca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_95
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 354
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57156e1e45ce84b43962dbb49fb9cec9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_96
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 354
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2969049e74e8ab746bed8dd9e61f5eee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_97
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 345
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b08c83d498dee8448ea73231ef0cef4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_98
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 313
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708e1c518ab366d4dbccceee4f59165f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_99
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 313
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377f212d6b2931245b7891bc70e0953e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_100
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 313
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aba7126f2ee3ad48a398b141cf7e8ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_101
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 313
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3b6429e0b043e44a6bda88f39ae9da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_102
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 313
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27ef2dd56587764babded96e0889708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 313
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff0c9909b24e6e4ba81fcd8a9b17d27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_104
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 313
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3693355585c51e448fc49c4efac8225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_105
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 313
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5423b8fc1cb68e4194b8e7441fdd006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_106
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 262
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0fb49b70682b84c93844ba90a75e32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_107
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 262
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc7889e676b2944c9fcb48e0d969a9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_108
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 262
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7293e6f8663db43a1060e17b485bd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_109
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 262
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74db5fec4e8180144b0ae58bfcb61678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_110
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 262
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e079cb5f1000d4ab2efaaf9c90be30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_111
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 262
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c1fed512947e746bd9e1d8ae9ee018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_112
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 262
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815bb8c45985c6e48996ec80d24c07ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_113
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 262
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8f77f2e0347854786054409b91234d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_114
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 262
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9d209bd3646454a8a06336b6aba0c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_115
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 254
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f684f26f0096ffa4c811516613d8aab5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_116
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 262
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19291d748eeda264c9592339378e05be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_117
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 262
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cd70f467a27014684e02ab15371658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_118
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 221
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd50041b6c56f841959bbbcd1119010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_119
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 253
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13e2c50953c9b24b9f1e7477c698a9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 221
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9613a2d5935b6b940842c7453643568c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_121
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 221
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1b4a82efa00434c9cd2094d4f70a39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_122
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 221
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb3d912bb18fe04ca68287d988f3459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_123
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 221
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6176d8ea483b2be4f976830864784963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_124
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 221
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1fcdd08cbaf1a4ebb1eefe904e1a77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_125
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 221
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83562317ea1a1304bb1c92ddfa7ccafa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_126
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 221
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dcbf65faaa8ff45819f012686b9528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_127
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 221
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd464be00bb4aa24a9f9a38a0c99a985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_128
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 221
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da064fab01ffa54f91415c04adeb2a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_129
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 221
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757200fe1a9aae045b1562cc7a6540eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_130
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 221
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4d4b0f35418f2429d1fbaf3459c5c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_131
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 221
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29889555a2658794aa29018e5b2be254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_132
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 173
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ec6838384feeb48a80eba124ad014f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_133
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 173
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c310239c22b4d488a6f3f7e5c7c35f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_134
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 173
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcce16fc15e7fa4bb22ab424bfe9d7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_135
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 173
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873d6e3f295c4d4449e0702baf8aab8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_136
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 173
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1a987494e2cb94cb60d44cfb7e4df6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_137
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 173
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f149a124064b2db4b8c515113e55cd7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_138
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 173
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d6bf5c61317854bb340b85987599c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_139
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 173
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ca94a8abbe29442b9ac4f5a051e1a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_140
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 173
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2c67f6770785c499a4314276f5ecc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_141
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 125
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e015ff1bea4f5c2458241ad2a7817a42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_142
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 125
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83241c586376ffa4ca74761b7bb582b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_143
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 125
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b478de42bb7f21747bd63799c4f7e296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_144
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 125
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa084bdb79d0787439cfacb7e8d8c787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_145
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 124
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25edaf4166694a345b6bdc80f7aeb08c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_146
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 124
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5b28e10beff5b41a4f30649da4a59a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_147
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 124
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15394f6074176b54890c9f8adfd38150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_148
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 124
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d2dfd4c1528ad4b81a1ae20bf50ba7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_149
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 89
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb01419a5c3405944ab965c33530fe42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_150
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 89
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268b3c38cf433884fac6dec300e7b4ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_151
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 89
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0488247af425212499aa9f9da2a86ab9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_152
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 89
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d662852607f3d2c4ca729866f8dfcda4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_153
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 89
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e20794ff69c4154fb1f19d77047270d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_154
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 89
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88441347bd25e2c46949bdc4020dca03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_155
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 89
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcd0f064a976a64991b79e01d18be89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_156
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 89
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbaec2057ede0f4cac139008377c911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_157
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 89
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c599743ad3d40a746baf06bad7fd82d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_158
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 89
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643d166c5866971499d4481c9b454f38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_159
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 89
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82878a48f538b3a439cc807e53f23f9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_160
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 53
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d534e83d763274428d87dda868a9b06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_161
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 53
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef974a1908133bd40b49059fd5a176a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_162
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 53
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16e8f22f59e26043b3c4b461162c162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_163
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 53
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0a19f16e2a097449d9d02ddd575fc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_164
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b8ee3aaf36a2e43b1289b27a715ad1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_165
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bf6c42a725eac469516e7fcb07c71a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_166
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c206bab40538f4e479d7c4f61f1750ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_167
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3df2e0256982fb43b6a3672eed15d9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_168
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705fbfad4bf392d4280b6f1789734396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier rifle - Metal Slug_169
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4694ce2636e47ba45890d40fe34cc84a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7162da79063c83943beee4d038efa8c6
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
